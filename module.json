@@ -47,8 +47,7 @@
     }
   ],
   "socket": true,
-  "url": "https://github.com/Xbozon/storyteller",
-  "manifest": "https://raw.githubusercontent.com/Xbozon/storyteller/master/module.json",
-  "download": "https://github.com/Xbozon/storyteller/archive/refs/heads/main.zip",
-  "id": "storyteller"
+  "url": "https://github.com/marcelrivijczyk/storytellerv12",
+  "manifest": "https://raw.githubusercontent.com/marcelrivijczyk/storytellerv12/master/module.json",
+  "download": "https://github.com/marcelrivijczyk/storytellerv12/archive/refs/heads/main.zip",
 }
